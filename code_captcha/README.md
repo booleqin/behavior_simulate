@@ -30,6 +30,7 @@ python cnn_model_train.py
 ## 示例
 
 生成验证码图片如下
-![avatar](./codeimg/0001.png =180x40)
+
+![avatar](./codeimg/0001.png)
 
 
