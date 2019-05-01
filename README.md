@@ -28,5 +28,10 @@ python login_baidu_pc.py
 
 模拟浏览器行为本身难度不大，主要是如何绕过网站的人机识别。
 
+## 图形验证码识别
+
+在code_captcha中做了一个基于cnn的图形验证码识别
+
+
 
 
